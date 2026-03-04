@@ -1,4 +1,4 @@
-# 📊 Predicción de Cancelación de Clientes (Churn Analysis) - Telecom X
+# 📊 Predicción de Cancelación de Clientes (Churn Analysis) - TelecomX
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)
